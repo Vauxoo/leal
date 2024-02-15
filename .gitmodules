@@ -1,0 +1,4 @@
+[submodule "leal"]
+	path = leal
+	url = git@git.vauxoo.com:vauxoo/leal.git
+	branch = 17.0
